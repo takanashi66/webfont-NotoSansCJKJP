@@ -1,7 +1,7 @@
 # Noto Sans CJK JPの設置
 
-Noto Sans CJK JPをダウンロードして設置
-アスキー文字 + 非漢字文字 + 第1水準漢字をサブセット
+Noto Sans CJK JPをダウンロードして設置  
+アスキー文字 + 非漢字文字 + 第1水準漢字をサブセット  
 フォントの形式はwoffのみ(モダンブラウザのみ対応)
 
 ## Packages
