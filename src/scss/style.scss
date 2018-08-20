@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+//*------------------------------------*//
+//	Base
+//*------------------------------------*//
+
+@import 'base/reset',
+        'base/var',
+        'base/default';
+
+
+
+@import 'fonts/noto';
+
+
+//*------------------------------------*//
+//	page
+//*------------------------------------*//
+p{
+  font-family: serif;
+  font-size: 5rem;
+}
+
+.t1{
+  font-family: "Noto Sans Japanese", sans-sans-serif;
+  font-weight: 100;
+  font-size: 5rem; 
+}
+
+.t2{
+  font-family: "Noto Sans Japanese", sans-serif;
+  font-weight: 200;
+  font-size: 5rem; 
+}
+
+.t3{
+  font-family: "Noto Sans Japanese", sans-serif;
+  font-weight: 300;
+  font-size: 5rem; 
+}
+
+.t4{
+  font-family: "Noto Sans Japanese", sans-serif;
+  font-weight: 400;
+  font-size: 5rem; 
+}
+
+.t5{
+  font-family: "Noto Sans Japanese", sans-serif;
+  font-weight: 500;
+  font-size: 5rem; 
+}
+
+.t7{
+  font-family: "Noto Sans Japanese", sans-serif;
+  font-weight: 700;
+  font-size: 5rem; 
+}
+
+.t9{
+  font-family: "Noto Sans Japanese", sans-serif;
+  font-weight: 900;
+  font-size: 5rem; 
+}
